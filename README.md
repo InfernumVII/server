@@ -22,5 +22,7 @@ uri = "ws://localhost:8000/ws"
 uri = "ws://localhost:8000/ws"
 2. Прокинуть asyncdrone.py,recognition.py на дрона 1 и на дрона 2
 3. запустить asyncdrone.py на дроне 1,  запустить asyncdrone.py на дроне 2
-Ссылка на документацию: 
+
+
+### Ссылка на документацию: 
 https://docs.google.com/document/d/1bX64CUT7YZSQ90xr5pkMVIGZ3K3FhxtVXV0nX2Am7IU/edit?usp=sharing
