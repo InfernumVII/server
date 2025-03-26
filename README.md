@@ -24,5 +24,8 @@ uri = "ws://localhost:8000/ws"
 3. запустить asyncdrone.py на дроне 1,  запустить asyncdrone.py на дроне 2
 
 
+
+
+
 ### Ссылка на документацию: 
 https://docs.google.com/document/d/1bX64CUT7YZSQ90xr5pkMVIGZ3K3FhxtVXV0nX2Am7IU/edit?usp=sharing
